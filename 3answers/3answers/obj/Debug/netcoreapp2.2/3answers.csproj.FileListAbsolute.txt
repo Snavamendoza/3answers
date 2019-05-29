@@ -1,0 +1,11 @@
+C:\Users\Sandra Mendoza\source\repos\3answers\3answers\bin\Debug\netcoreapp2.2\3answers.deps.json
+C:\Users\Sandra Mendoza\source\repos\3answers\3answers\bin\Debug\netcoreapp2.2\3answers.runtimeconfig.json
+C:\Users\Sandra Mendoza\source\repos\3answers\3answers\bin\Debug\netcoreapp2.2\3answers.runtimeconfig.dev.json
+C:\Users\Sandra Mendoza\source\repos\3answers\3answers\bin\Debug\netcoreapp2.2\3answers.dll
+C:\Users\Sandra Mendoza\source\repos\3answers\3answers\bin\Debug\netcoreapp2.2\3answers.pdb
+C:\Users\Sandra Mendoza\source\repos\3answers\3answers\obj\Debug\netcoreapp2.2\3answers.csprojAssemblyReference.cache
+C:\Users\Sandra Mendoza\source\repos\3answers\3answers\obj\Debug\netcoreapp2.2\3answers.csproj.CoreCompileInputs.cache
+C:\Users\Sandra Mendoza\source\repos\3answers\3answers\obj\Debug\netcoreapp2.2\3answers.AssemblyInfoInputs.cache
+C:\Users\Sandra Mendoza\source\repos\3answers\3answers\obj\Debug\netcoreapp2.2\3answers.AssemblyInfo.cs
+C:\Users\Sandra Mendoza\source\repos\3answers\3answers\obj\Debug\netcoreapp2.2\3answers.dll
+C:\Users\Sandra Mendoza\source\repos\3answers\3answers\obj\Debug\netcoreapp2.2\3answers.pdb
